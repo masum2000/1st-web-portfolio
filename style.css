@@ -42,3 +42,8 @@ p{
 .link-button:hover{
     background-color: slateblue;
 }
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
