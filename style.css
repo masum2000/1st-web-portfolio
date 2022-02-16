@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px ;
+}
+.name-highlight{
+      color: tomato;
+}
+.section1{
+ background: red;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left:5%;
+    padding: 2%;
+} 
+.half-width img{
+    width: 100%;
+}
